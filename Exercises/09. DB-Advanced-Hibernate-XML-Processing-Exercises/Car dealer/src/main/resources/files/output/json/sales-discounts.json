@@ -1,0 +1,167 @@
+[
+  {
+    "car": {
+      "make": "Toyota",
+      "model": "Prius",
+      "travelledDistance": 283647
+    },
+    "customerName": "Kristian Engberg",
+    "discount": 40,
+    "price": 4703.12,
+    "priceWithDiscount": 6584.36799999999958227903107399470172822475433349609375000
+  },
+  {
+    "car": {
+      "make": "BMW",
+      "model": "X6 M",
+      "travelledDistance": 483647
+    },
+    "customerName": "Hipolito Lamoreaux",
+    "discount": 30,
+    "price": 5783.77,
+    "priceWithDiscount": 7518.901000000000256850984925449665752239525318145751953125
+  },
+  {
+    "car": {
+      "make": "Fiat",
+      "model": "500 (2007) Abarth 695 Tributo Maserati",
+      "travelledDistance": 214747
+    },
+    "customerName": "Jimmy Grossi",
+    "discount": 40,
+    "price": 8543.83,
+    "priceWithDiscount": 11961.36199999999924115545724134790361858904361724853515625
+  },
+  {
+    "car": {
+      "make": "Ferrari",
+      "model": "Daytona",
+      "travelledDistance": 2147447
+    },
+    "customerName": "Marcelle Griego",
+    "discount": 50,
+    "price": 3468.16,
+    "priceWithDiscount": 5202.240
+  },
+  {
+    "car": {
+      "make": "Mercedes",
+      "model": "W212",
+      "travelledDistance": 2183647
+    },
+    "customerName": "Nisha Markwell",
+    "discount": 0,
+    "price": 3443.98,
+    "priceWithDiscount": 3443.98
+  },
+  {
+    "car": {
+      "make": "Lamborghini",
+      "model": "Murciélago",
+      "travelledDistance": 214783647
+    },
+    "customerName": "Cinthia Lasala",
+    "discount": 30,
+    "price": 3900.75,
+    "priceWithDiscount": 5070.975000000000173228098532263175002299249172210693359375
+  },
+  {
+    "car": {
+      "make": "Nissan",
+      "model": "370Z",
+      "travelledDistance": 922307
+    },
+    "customerName": "Marcelle Griego",
+    "discount": 10,
+    "price": 1257.90,
+    "priceWithDiscount": 1383.69000000000011172396341407875297591090202331542968750
+  },
+  {
+    "car": {
+      "make": "Nissan",
+      "model": "Altima",
+      "travelledDistance": 213647
+    },
+    "customerName": "Johnette Derryberry",
+    "discount": 15,
+    "price": 5552.99,
+    "priceWithDiscount": 6385.93849999999950679541171894015860743820667266845703125
+  },
+  {
+    "car": {
+      "make": "Nissan",
+      "model": "GT-R",
+      "travelledDistance": 2143647
+    },
+    "customerName": "Oren Perlman",
+    "discount": 50,
+    "price": 1568.78,
+    "priceWithDiscount": 2353.170
+  },
+  {
+    "car": {
+      "make": "Lamborghini",
+      "model": "Murciélago",
+      "travelledDistance": 214783647
+    },
+    "customerName": "Emmitt Benally",
+    "discount": 10,
+    "price": 3900.75,
+    "priceWithDiscount": 4290.82500000000034645619706452635000459849834442138671875
+  },
+  {
+    "car": {
+      "make": "Citroen",
+      "model": "C5",
+      "travelledDistance": 922334775807
+    },
+    "customerName": "Emmitt Benally",
+    "discount": 20,
+    "price": 6550.06,
+    "priceWithDiscount": 7860.071999999999709118903012949886033311486244201660156250
+  },
+  {
+    "car": {
+      "make": "Great Wall",
+      "model": "H2",
+      "travelledDistance": 21647
+    },
+    "customerName": "Johnette Derryberry",
+    "discount": 5,
+    "price": 5512.53,
+    "priceWithDiscount": 5788.156500000000244805509197476567351259291172027587890625
+  },
+  {
+    "car": {
+      "make": "Ferrari",
+      "model": "F40",
+      "travelledDistance": 2647
+    },
+    "customerName": "Emmitt Benally",
+    "discount": 0,
+    "price": 1041.89,
+    "priceWithDiscount": 1041.89
+  },
+  {
+    "car": {
+      "make": "Nissan",
+      "model": "Altima",
+      "travelledDistance": 9223372775807
+    },
+    "customerName": "Francis Mckim",
+    "discount": 20,
+    "price": 9579.93,
+    "priceWithDiscount": 11495.915999999999574565645588108964147977530956268310546875
+  },
+  {
+    "car": {
+      "make": "Renault",
+      "model": "Alaskan",
+      "travelledDistance": 2647
+    },
+    "customerName": "Emmitt Benally",
+    "discount": 30,
+    "price": 9330.35,
+    "priceWithDiscount": 12129.455000000000414350775912453173077665269374847412109375
+  }
+]

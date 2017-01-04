@@ -1,0 +1,19 @@
+package com.neckandelbows.dao;
+
+
+import com.neckandelbows.domain.batches.ProductionBatch;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+import java.util.Date;
+import java.util.List;
+
+@Repository
+public interface ProductionBatchDao extends JpaRepository<ProductionBatch, Long>{
+
+    List<ProductionBatch> findByBatchDateAfter(Date date);
+
+    List<ProductionBatch> findByShampoosIsNullOrderByBatchDateDesc();
+
+    List<Object[]> findBatchDateAndShampooLabelTitle();
+}

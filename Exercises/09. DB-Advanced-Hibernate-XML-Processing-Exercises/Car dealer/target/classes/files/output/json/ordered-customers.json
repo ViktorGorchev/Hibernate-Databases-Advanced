@@ -1,0 +1,439 @@
+[
+  {
+    "Id": 34,
+    "Name": "Louann Holzworth",
+    "BirthDate": "Oct 1, 1960 12:00:00 AM",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 33,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "Oct 1, 1963 12:00:00 AM",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 22,
+    "Name": "Rema Revelle",
+    "BirthDate": "May 1, 1970 12:00:00 AM",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 21,
+    "Name": "Carri Knapik",
+    "BirthDate": "Feb 2, 1972 12:00:00 AM",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 32,
+    "Name": "Garret Capron",
+    "BirthDate": "Jul 1, 1975 12:00:00 AM",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 13,
+    "Name": "Teddy Hobby",
+    "BirthDate": "Oct 1, 1975 12:00:00 AM",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 15,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "Oct 1, 1976 12:00:00 AM",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 16,
+    "Name": "Francis Mckim",
+    "BirthDate": "Oct 1, 1977 12:00:00 AM",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "car": {
+          "make": "Nissan",
+          "model": "Altima",
+          "travelledDistance": 9223372775807
+        },
+        "customer": {
+          "name": "Francis Mckim",
+          "birthDate": "1977-10-01 00:00:00.0",
+          "isYoungDriver": true
+        },
+        "discount": 20
+      }
+    ]
+  },
+  {
+    "Id": 19,
+    "Name": "Brett Brickley",
+    "BirthDate": "Oct 1, 1980 12:00:00 AM",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 20,
+    "Name": "Kristian Engberg",
+    "BirthDate": "Oct 3, 1981 12:00:00 AM",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "car": {
+          "make": "Toyota",
+          "model": "Prius",
+          "travelledDistance": 283647
+        },
+        "customer": {
+          "name": "Kristian Engberg",
+          "birthDate": "1981-10-03 00:00:00.0",
+          "isYoungDriver": false
+        },
+        "discount": 40
+      }
+    ]
+  },
+  {
+    "Id": 31,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "Aug 1, 1982 12:00:00 AM",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "car": {
+          "make": "BMW",
+          "model": "X6 M",
+          "travelledDistance": 483647
+        },
+        "customer": {
+          "name": "Hipolito Lamoreaux",
+          "birthDate": "1982-08-01 00:00:00.0",
+          "isYoungDriver": true
+        },
+        "discount": 30
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "Name": "Zada Attwood",
+    "BirthDate": "Oct 1, 1982 12:00:00 AM",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 30,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "Oct 1, 1983 12:00:00 AM",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 12,
+    "Name": "Rico Peer",
+    "BirthDate": "Oct 1, 1984 12:00:00 AM",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 10,
+    "Name": "Hai Everton",
+    "BirthDate": "Oct 1, 1985 12:00:00 AM",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 11,
+    "Name": "Lino Subia",
+    "BirthDate": "Dec 21, 1985 12:00:00 AM",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 29,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "Jul 1, 1986 12:00:00 AM",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "car": {
+          "make": "Fiat",
+          "model": "500 (2007) Abarth 695 Tributo Maserati",
+          "travelledDistance": 214747
+        },
+        "customer": {
+          "name": "Jimmy Grossi",
+          "birthDate": "1986-07-01 00:00:00.0",
+          "isYoungDriver": true
+        },
+        "discount": 40
+      }
+    ]
+  },
+  {
+    "Id": 17,
+    "Name": "Carole Witman",
+    "BirthDate": "Oct 1, 1987 12:00:00 AM",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 18,
+    "Name": "Oren Perlman",
+    "BirthDate": "Oct 1, 1988 12:00:00 AM",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "car": {
+          "make": "Nissan",
+          "model": "GT-R",
+          "travelledDistance": 2143647
+        },
+        "customer": {
+          "name": "Oren Perlman",
+          "birthDate": "1988-10-01 00:00:00.0",
+          "isYoungDriver": true
+        },
+        "discount": 50
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "Name": "Natalie Poli",
+    "BirthDate": "Oct 4, 1990 12:00:00 AM",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 8,
+    "Name": "Marcelle Griego",
+    "BirthDate": "Oct 4, 1990 12:00:00 AM",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "car": {
+          "make": "Ferrari",
+          "model": "Daytona",
+          "travelledDistance": 2147447
+        },
+        "customer": {
+          "name": "Marcelle Griego",
+          "birthDate": "1990-10-04 00:00:00.0",
+          "isYoungDriver": true
+        },
+        "discount": 50
+      },
+      {
+        "car": {
+          "make": "Nissan",
+          "model": "370Z",
+          "travelledDistance": 922307
+        },
+        "customer": {
+          "name": "Marcelle Griego",
+          "birthDate": "1990-10-04 00:00:00.0",
+          "isYoungDriver": true
+        },
+        "discount": 10
+      }
+    ]
+  },
+  {
+    "Id": 24,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "Mar 2, 1992 12:00:00 AM",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 35,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "Mar 2, 1992 12:00:00 AM",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 26,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "Nov 1, 1992 12:00:00 AM",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "car": {
+          "make": "Lamborghini",
+          "model": "Murciélago",
+          "travelledDistance": 214783647
+        },
+        "customer": {
+          "name": "Cinthia Lasala",
+          "birthDate": "1992-11-01 00:00:00.0",
+          "isYoungDriver": true
+        },
+        "discount": 30
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Name": "Emmitt Benally",
+    "BirthDate": "Nov 20, 1993 12:00:00 AM",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "car": {
+          "make": "Lamborghini",
+          "model": "Murciélago",
+          "travelledDistance": 214783647
+        },
+        "customer": {
+          "name": "Emmitt Benally",
+          "birthDate": "1993-11-20 00:00:00.0",
+          "isYoungDriver": true
+        },
+        "discount": 10
+      },
+      {
+        "car": {
+          "make": "Ferrari",
+          "model": "F40",
+          "travelledDistance": 2647
+        },
+        "customer": {
+          "name": "Emmitt Benally",
+          "birthDate": "1993-11-20 00:00:00.0",
+          "isYoungDriver": true
+        },
+        "discount": 0
+      },
+      {
+        "car": {
+          "make": "Citroen",
+          "model": "C5",
+          "travelledDistance": 922334775807
+        },
+        "customer": {
+          "name": "Emmitt Benally",
+          "birthDate": "1993-11-20 00:00:00.0",
+          "isYoungDriver": true
+        },
+        "discount": 20
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "Emmitt Benally",
+    "BirthDate": "Nov 20, 1993 12:00:00 AM",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 6,
+    "Name": "Emmitt Benally",
+    "BirthDate": "Nov 20, 1993 12:00:00 AM",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 5,
+    "Name": "Emmitt Benally",
+    "BirthDate": "Nov 20, 1993 12:00:00 AM",
+    "IsYoungDriver": true,
+    "Sales": []
+  },
+  {
+    "Id": 2,
+    "Name": "Emmitt Benally",
+    "BirthDate": "Nov 20, 1993 12:00:00 AM",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "car": {
+          "make": "Renault",
+          "model": "Alaskan",
+          "travelledDistance": 2647
+        },
+        "customer": {
+          "name": "Emmitt Benally",
+          "birthDate": "1993-11-20 00:00:00.0",
+          "isYoungDriver": true
+        },
+        "discount": 30
+      }
+    ]
+  },
+  {
+    "Id": 25,
+    "Name": "Nisha Markwell",
+    "BirthDate": "Apr 4, 1994 12:00:00 AM",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "car": {
+          "make": "Mercedes",
+          "model": "W212",
+          "travelledDistance": 2183647
+        },
+        "customer": {
+          "name": "Nisha Markwell",
+          "birthDate": "1994-04-04 00:00:00.0",
+          "isYoungDriver": false
+        },
+        "discount": 0
+      }
+    ]
+  },
+  {
+    "Id": 28,
+    "Name": "Faustina Burgher",
+    "BirthDate": "Jun 1, 1994 12:00:00 AM",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 23,
+    "Name": "Taina Achenbach",
+    "BirthDate": "Oct 1, 1994 12:00:00 AM",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 14,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "Oct 1, 1995 12:00:00 AM",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "car": {
+          "make": "Great Wall",
+          "model": "H2",
+          "travelledDistance": 21647
+        },
+        "customer": {
+          "name": "Johnette Derryberry",
+          "birthDate": "1995-10-01 00:00:00.0",
+          "isYoungDriver": true
+        },
+        "discount": 5
+      },
+      {
+        "car": {
+          "make": "Nissan",
+          "model": "Altima",
+          "travelledDistance": 213647
+        },
+        "customer": {
+          "name": "Johnette Derryberry",
+          "birthDate": "1995-10-01 00:00:00.0",
+          "isYoungDriver": true
+        },
+        "discount": 15
+      }
+    ]
+  }
+]
